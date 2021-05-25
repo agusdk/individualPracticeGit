@@ -1,2 +1,2 @@
-primer linea: printf("Hola mundo");
+_primer linea: printf("Hola mundo");
 
